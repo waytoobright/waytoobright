@@ -18,8 +18,7 @@ I'm a passionate software developer focused on building web applications and exp
 
 ## 📫 Reach Me
 
-* GitHub: [Your GitHub Username]
-* Email: [Your Email]
+* GitHub: waytoobright
 * LinkedIn: [Optional]
 
 Thanks for visiting my profile!
